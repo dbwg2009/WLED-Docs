@@ -90,7 +90,7 @@ build_flags =
   -D I2C_SCL=18
 ```
 
-See the [Heltec WiFi LoRa 32 V3 Board Guide](/boards/heltec-wifi-lora-32-v3.md) for detailed setup instructions.
+Refer to the compatible controllers section for the Heltec WiFi LoRa 32 V3 board details.
 
 ## Miscellaneous
 
