@@ -88,6 +88,8 @@ nav:
       - Compiling WLED: advanced/compiling-wled.md
     - Tutorials: basics/tutorials.md
     - FAQ: basics/faq.md
+  - Board Guides:
+    - Heltec WiFi LoRa 32 V3: boards/heltec-wifi-lora-32-v3.md
   - Features:
     - Effects: features/effects.md
     - Palettes: features/palettes.md
